@@ -1,0 +1,14 @@
+C:\Users\rd314\source\repos\sotrs\sotrs\bin\Debug\net8.0\sotrs.exe
+C:\Users\rd314\source\repos\sotrs\sotrs\bin\Debug\net8.0\sotrs.deps.json
+C:\Users\rd314\source\repos\sotrs\sotrs\bin\Debug\net8.0\sotrs.runtimeconfig.json
+C:\Users\rd314\source\repos\sotrs\sotrs\bin\Debug\net8.0\sotrs.dll
+C:\Users\rd314\source\repos\sotrs\sotrs\bin\Debug\net8.0\sotrs.pdb
+C:\Users\rd314\source\repos\sotrs\sotrs\obj\Debug\net8.0\sotrs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rd314\source\repos\sotrs\sotrs\obj\Debug\net8.0\sotrs.AssemblyInfoInputs.cache
+C:\Users\rd314\source\repos\sotrs\sotrs\obj\Debug\net8.0\sotrs.AssemblyInfo.cs
+C:\Users\rd314\source\repos\sotrs\sotrs\obj\Debug\net8.0\sotrs.csproj.CoreCompileInputs.cache
+C:\Users\rd314\source\repos\sotrs\sotrs\obj\Debug\net8.0\sotrs.dll
+C:\Users\rd314\source\repos\sotrs\sotrs\obj\Debug\net8.0\refint\sotrs.dll
+C:\Users\rd314\source\repos\sotrs\sotrs\obj\Debug\net8.0\sotrs.pdb
+C:\Users\rd314\source\repos\sotrs\sotrs\obj\Debug\net8.0\sotrs.genruntimeconfig.cache
+C:\Users\rd314\source\repos\sotrs\sotrs\obj\Debug\net8.0\ref\sotrs.dll
